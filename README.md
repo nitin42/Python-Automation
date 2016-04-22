@@ -14,4 +14,5 @@ These are some projects which I worked upon to automate stuffs using python.
 - Project 10 - Feeling Lucky Today!
 - Project 11 - 2048!
 - Project 12 - Combining pages from PDFs
+- project 13 - Copying '.jpg' and '.pdf' files into a newfolder
 
