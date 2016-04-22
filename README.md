@@ -15,4 +15,6 @@ These are some projects which I worked upon to automate stuffs using python.
 - Project 11 - 2048!
 - Project 12 - Combining pages from PDFs
 - project 13 - Copying '.jpg' and '.pdf' files into a newfolder
+- Project 14 - Deleting Uneeded Files from PC
+- Project 15 - Brute-Force PDF Password Breaker
 
