@@ -2,7 +2,7 @@
 
 These are some projects which I worked upon to automate stuffs using python.
 
-- Project 1  - E-mail and phone number extractor
+- (Project 1)[https://github.com/nitin42/Python-Automation/blob/master/project_1.py]  - E-mail and phone number extractor
 - Project 2  - Strong Password Detection
 - Project 3  - Regular expression version for strip()
 - Project 4  - Multiclipboard
