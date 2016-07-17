@@ -18,4 +18,5 @@ These are some projects which I worked upon to automate stuffs using python.
 - [Project 14](https://github.com/nitin42/Python-Automation/blob/master/project14.py) - Deleting Uneeded Files from PC
 - [Project 15](https://github.com/nitin42/Python-Automation/blob/master/project15.py) - Brute-Force PDF Password Breaker
 - [Project 16](https://github.com/nitin42/Python-Automation/blob/master/project16.py) - UNIX Password Cracker
+- [Project 17](https://github.com/nitin42/Python-Automation/blob/master/project17.py) - ZIP Password Cracker
 
