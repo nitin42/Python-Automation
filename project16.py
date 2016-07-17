@@ -6,7 +6,7 @@ import crypt
 def test_password(crypted_password):
 	salt = crypted_password[0:2]
 
-	file_obj = open('dictitionary.txt','r')
+	file_obj = open('dictionary.txt','r')
 	for word in file_obj.readlines():
 		word = word.split('\n')
 		crypt_pass = crypt.crypt(word, salt)
