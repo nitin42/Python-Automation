@@ -20,4 +20,6 @@ These are some projects which I worked upon to automate stuffs using python.
 - [Project 16](https://github.com/nitin42/Python-Automation/blob/master/project16.py) - UNIX Password Cracker
 - [Project 17](https://github.com/nitin42/Python-Automation/blob/master/project17.py) - ZIP Password Cracker
 - [EASTER EGG FUN](https://github.com/nitin42/Python-Automation/blob/master/easter_egg.py) - Try it for fun!
+- [Profanity check](https://github.com/nitin42/Python-Automation/blob/master/profanity_editor.py) - Save your A$$!
+- [Pirate speech](https://github.com/nitin42/Python-Automation/blob/master/pirate_speech.py) - Translate into a pirate 
 
