@@ -24,3 +24,4 @@ These are some projects which I worked upon to automate stuffs using python.
 - [Pirate speech](https://github.com/nitin42/Python-Automation/blob/master/pirate_speech.py) - Translate into a pirate
 - [Count Frequency](https://github.com/nitin42/Python-Automation/blob/master/count_me.py) - Counts the frequency of each word in a text file. 
 
+
