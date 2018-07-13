@@ -17,7 +17,8 @@ def test_pass(zipfile, password):
 	try:
 		zipfile.extractall(password)
 		return password
-	except:
+	except Exception as ex:
+		print("An error occured "%(ex))
 		return
 
 def main():
